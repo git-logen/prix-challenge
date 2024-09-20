@@ -28,10 +28,11 @@ Este proyecto es una API RESTful desarrollada como parte del Prix Challenge. La 
 
 ## Instalación
 
+1. Clonar repositorio: https://github.com/git-logen/prix-challenge.git
 
-1. Instala las dependencias: npm install
+2. Instala las dependencias: npm install
 
-2. Crea un archivo `.env` en la raíz del proyecto y copia las variables que estan en el .env.example
+3. Crea un archivo `.env` en la raíz del proyecto y copia las variables que estan en el .env.example
 
 
 
